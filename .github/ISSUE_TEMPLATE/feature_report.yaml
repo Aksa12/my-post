@@ -1,7 +1,7 @@
-name: Bug report
+name: Feature report
 description: Create a report to help us improve
-title: Bug report
-labels: ["bug :bug:"]
+title: Feature report
+labels: ["feature :bug:"]
 body:
   - type: textarea
     id: bug_report_description
